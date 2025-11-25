@@ -1,8 +1,92 @@
+Olá, eu sou Ney Leme Costa! 👋<br><br>
+Gestor de Tecnologia | Inovação & Estratégia | Apaixonado por IA & Machine Learning
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/%F0%9F%93%84_Curr%C3%ADculo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+<br><br><br>
+
+### 🎯 Sobre Minha Jornada <br>
+Com uma trajetória sólida em tecnologia, percorri diversas áreas técnicas que me proporcionaram uma visão 360° do universo digital. Minha curiosidade insaciável por entender como as coisas funcionam me levou além do código - hoje atuo na interseção entre tecnologia, gestão e estratégia. <br><br>
+
+### 🚀 Minha Missão Atual <br>
+Estou liderando um projeto ambicioso para democratizar o uso de Inteligência Artificial e Machine Learning, mostrando que essas tecnologias não são exclusivas para grandes corporações. Acredito que a IA pode transformar até as menores tarefas do dia a dia, criando eficiência e inovação em qualquer escala. <br><br>
+
+### 💡Que Me Diferencia <br>
+🎯 Visão Estratégica: Entendo tecnologia como ferramenta de negócio <br>
+🔧 Conhecimento Técnico Sólido: Da implementação à arquitetura<br>
+👥 Liderança de Equipes: Gestão de operações e desenvolvimento de talentos<br>
+🚀 Inovação Prática: IA e ML aplicados a problemas reais<br><br>
+
+### 🌟 Projeto em Destaque <br>
+IA para Todos: Democratizando a Inteligência Artificial<br>
+Acreditamos que a tecnologia de ponta deve estar ao alcance de todos. Estou desenvolvendo soluções que provam que IA e Machine Learning podem ser implementados em:
+
+ - Pequenos negócios
+ - Processos do dia a dia
+ - Automações pessoais
+ - Soluções acessíveis <br><br><br>
+
+### <i>"A verdadeira inovação acontece quando tecnologia complexa se torna simples o suficiente para qualquer pessoa usar."</i> <br><br><br>
+
+### 🛠️ Áreas de Expertise <br><br>
+Gestão & Estratégia
+Liderança de Equipes Técnicas
+
+Gestão de Operações de TI
+
+Planejamento Estratégico de Tecnologia
+
+Inovação e Transformação Digital
+
+Tecnologias & Inovações
+IA & Machine Learning → Foco atual
+
+Arquitetura de Soluções
+
+Melhores Práticas de Desenvolvimento
+
+Gestão de Projetos Ágeis
+
+📈 Por Que Me Acompanhar?
+Aqui você encontrará:
+
+💡 Projetos práticos de IA aplicada ao mundo real
+
+🎯 Insights valiosos sobre gestão e tecnologia
+
+🚀 Soluções inovadoras que qualquer pessoa pode implementar
+
+📚 Conhecimento compartilhado da minha jornada técnica e gerencial
+
+🌱 Próximos Passos
+Estou expandindo meu portfólio com casos reais onde IA e Machine Learning criam valor tangível. Quero provar que essas tecnologias podem ser:
+
+Acessíveis para pequenos negócios
+
+Práticas para uso diário
+
+Transformadoras em qualquer escala
+
+📫 Vamos Conversar?
+https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white
+https://img.shields.io/badge/%F0%9F%93%84_Ver_Curr%C3%ADculo_Completo-181717?style=for-the-flat&logo=github&logoColor=white
+
+<div align="center">
+"A tecnologia mais poderosa é aquela que empodera pessoas comuns a fazer coisas extraordinárias."
+⭐ Explore meus repositórios e descubra como a IA pode transformar seu mundo!
+
+</div>
+Obrigado pela visita! Vamos juntos construir soluções inteligentes que façam a diferença. 🚀
+
+
+
+------- ------- -------
+
 
 # (((((((  EM DESENVOLVIMENTO  )))))))
 
 Olá, eu sou Ney Leme Costa! 👋<br>
-Bem vindo, e obrigado por estar interessado em meu perfil aqui no github.
+Bem vindo, e obrigado por estar visitando meu perfil aqui no github.
 
 Segue meu Linkedin <br>
   www.linkedin.com/in/neycostamdk
@@ -14,7 +98,7 @@ Segue meu currículo no github <br>
 
 🚀 Sobre Mim...
 
-Sou da área de tecnologia onde passei em diersas áreas técnicas as quais obtive conhecimento diversos, porém sempre fui levado para gestão de equipe e operações, onde estou atualmente em minha carreira. Porém sou uma pessoa onde tenho a curiosidade de saber como as coisas funcionam como um todo. <br>
+Sou da área de tecnologia onde passei em diversas áreas técnicas as quais obtive conhecimento diversos, porém sempre fui levado para gestão de equipe e operações, onde estou atualmente em minha carreira. Porém sou uma pessoa onde tenho a curiosidade de saber como as coisas funcionam como um todo. <br>
 
 Estou com novo projeto para desenvolver projetos e estudos baseado em técnologia de Intelegência Artificial e Machine Leraning. <br>
 
