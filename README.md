@@ -1,29 +1,24 @@
-####
-### Hi there 👋
+Olá, eu sou Ney Leme Costa! 👋<br>
+Bem vindo, e obrigado por estar interessado em meu perfil aqui no github.
 
-<!--
-**CostaNey/costaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Segue meu Linkedin <br>
+  www.linkedin.com/in/neycostamdk
 
-Here are some ideas to get you started:
+Segue meu currículo no github <br>
+  https://github.com/CostaNey/Curriculo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-####
+----- ----- -----
 
+🚀 Sobre Mim...
 
-Olá, eu sou o Costa! 👋
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+Sou da área de tecnologia onde passei em diersas áreas técnicas as quais obtive conhecimento diversos, porém sempre fui levado para gestão de equipe e operações, onde estou atualmente em minha carreira. Porém sou uma pessoa onde tenho a curiosidade de saber como as coisas funcionam como um todo. <br>
 
-🚀 Sobre Mim
-Desenvolvedor apaixonado por tecnologia e inovação. Atualmente focado em criar soluções robustas e escaláveis para desafios complexos. Sempre em busca de aprender novas tecnologias e compartilhar conhecimento com a comunidade.
+Estou com novo projeto para desenvolver projetos e estudos baseado em técnologia de Intelegência Artificial e Machine Leraning. <br>
+
+Aqui tenho alguns exemplos das diversas oportunidades de uso no dia-a-dia para até pequenas coisas, essa técnologia não é apenas somente para grandes empresas, grandes negócios!
+
+Gosto muito da tecnologia e inovação. Atualmente focado em criar soluções robustas e escaláveis. Sempre em busca de aprender novas tecnologias e compartilhar conhecimento com a comunidade. <br>
+
 
 🛠️ Tecnologias & Ferramentas
 Frontend
