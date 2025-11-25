@@ -1,3 +1,6 @@
+
+(((((((  EM DESENVOLVIMENTO  )))))))
+
 Olá, eu sou Ney Leme Costa! 👋<br>
 Bem vindo, e obrigado por estar interessado em meu perfil aqui no github.
 
