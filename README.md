@@ -28,51 +28,38 @@ Acreditamos que a tecnologia de ponta deve estar ao alcance de todos. Estou dese
 
 ### <i>"A verdadeira inovação acontece quando tecnologia complexa se torna simples o suficiente para qualquer pessoa usar."</i> <br><br><br>
 
-### 🛠️ Áreas de Expertise <br><br>
-Gestão & Estratégia
-Liderança de Equipes Técnicas
+### 🛠️ Áreas de Expertise <br>
+#### Gestão & Estratégia
+ - Liderança de Equipes Técnicas
+ - Gestão de Operações de TI
+ - Planejamento Estratégico de Tecnologia
+ - Inovação e Transformação Digital <br>
 
-Gestão de Operações de TI
+#### Tecnologias & Inovações <br>
+ - IA & Machine Learning → Foco atual
+ - Arquitetura de Soluções
+ - Melhores Práticas de Desenvolvimento
+ - Gestão de Projetos Ágeis <br><br>
 
-Planejamento Estratégico de Tecnologia
+### 📈 Por Que Me Acompanhar?
+Aqui você encontrará: <br>
+  - 💡 Projetos práticos de IA aplicada ao mundo real<br>
+  - 🎯 Insights valiosos sobre gestão e tecnologia<br>
+  - 🚀 Soluções inovadoras que qualquer pessoa pode implementar<br>
+  - 📚 Conhecimento compartilhado da minha jornada técnica e gerencial<br><br>
 
-Inovação e Transformação Digital
-
-Tecnologias & Inovações
-IA & Machine Learning → Foco atual
-
-Arquitetura de Soluções
-
-Melhores Práticas de Desenvolvimento
-
-Gestão de Projetos Ágeis
-
-📈 Por Que Me Acompanhar?
-Aqui você encontrará:
-
-💡 Projetos práticos de IA aplicada ao mundo real
-
-🎯 Insights valiosos sobre gestão e tecnologia
-
-🚀 Soluções inovadoras que qualquer pessoa pode implementar
-
-📚 Conhecimento compartilhado da minha jornada técnica e gerencial
-
-🌱 Próximos Passos
+### 🌱 Próximos Passos <br>
 Estou expandindo meu portfólio com casos reais onde IA e Machine Learning criam valor tangível. Quero provar que essas tecnologias podem ser:
+ - Acessíveis para pequenos negócios
+ - Práticas para uso diário
+ - Transformadoras em qualquer escala <br><br>
 
-Acessíveis para pequenos negócios
-
-Práticas para uso diário
-
-Transformadoras em qualquer escala
-
-📫 Vamos Conversar?
+### 📫 Vamos Conversar? <br>
 https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white
 https://img.shields.io/badge/%F0%9F%93%84_Ver_Curr%C3%ADculo_Completo-181717?style=for-the-flat&logo=github&logoColor=white
 
 <div align="center">
-"A tecnologia mais poderosa é aquela que empodera pessoas comuns a fazer coisas extraordinárias."
+"A tecnologia mais poderosa é aquela que empodera pessoas comuns a fazer coisas extraordinárias." <br>
 ⭐ Explore meus repositórios e descubra como a IA pode transformar seu mundo!
 
 </div>
