@@ -1,15 +1,16 @@
-Olá, eu sou Ney Leme Costa! 👋<br><br>
+Olá, eu sou Ney Leme Costa! 👋<br>
 Gestor de Tecnologia | Inovação & Estratégia | Apaixonado por IA & Machine Learning
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/%F0%9F%93%84_Curr%C3%ADculo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://mandrakex.wixsite.com/mandrakex<br>
+https://www.linkedin.com/company/mandrake-consultoria
 <br><br><br>
+Bem vindo ao meu perfil github! <br>
 
 ### 🎯 Sobre Minha Jornada <br>
 Com uma trajetória sólida em tecnologia, percorri diversas áreas técnicas que me proporcionaram uma visão 360° do universo digital. Minha curiosidade insaciável por entender como as coisas funcionam me levou além do código - hoje atuo na interseção entre tecnologia, gestão e estratégia. <br><br>
 
 ### 🚀 Minha Missão Atual <br>
-Estou liderando um projeto ambicioso para democratizar o uso de Inteligência Artificial e Machine Learning, mostrando que essas tecnologias não são exclusivas para grandes corporações. Acredito que a IA pode transformar até as menores tarefas do dia a dia, criando eficiência e inovação em qualquer escala. <br><br>
+Estou com projeto para democratizar o uso de Inteligência Artificial e Machine Learning, mostrando que essas tecnologias não são exclusivas para grandes corporações. Acredito que a IA pode transformar até as menores tarefas do dia a dia, criando eficiência e inovação em qualquer escala. <br><br>
 
 ### 💡Que Me Diferencia <br>
 🎯 Visão Estratégica: Entendo tecnologia como ferramenta de negócio <br>
@@ -24,9 +25,9 @@ Acreditamos que a tecnologia de ponta deve estar ao alcance de todos. Estou dese
  - Pequenos negócios
  - Processos do dia a dia
  - Automações pessoais
- - Soluções acessíveis <br><br><br>
+ - Soluções acessíveis <br><br>
 
-### <i>"A verdadeira inovação acontece quando tecnologia complexa se torna simples o suficiente para qualquer pessoa usar."</i> <br><br><br>
+### <i>"A verdadeira inovação acontece quando tecnologia complexa se torna simples o suficiente para qualquer pessoa usar."</i> <br><br>
 
 ### 🛠️ Áreas de Expertise <br>
 #### Gestão & Estratégia
@@ -57,11 +58,12 @@ Estou expandindo meu portfólio com casos reais onde IA e Machine Learning criam
 ### 📫 Vamos Conversar? <br>
 https://img.shields.io/badge/Conecte--se_no_LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white
 https://img.shields.io/badge/%F0%9F%93%84_Ver_Curr%C3%ADculo_Completo-181717?style=for-the-flat&logo=github&logoColor=white
+<br><br><br>
 
 <div align="center">
-"A tecnologia mais poderosa é aquela que empodera pessoas comuns a fazer coisas extraordinárias." <br>
-⭐ Explore meus repositórios e descubra como a IA pode transformar seu mundo!
-
+"A tecnologia mais poderosa é aquela que empodera pessoas comuns a fazer coisas extraordinárias." <br><br>
+⭐ Explore meus repositórios e descubra como a IA pode transformar seu mundo! <br><br>
+<br>
 </div>
 Obrigado pela visita! Vamos juntos construir soluções inteligentes que façam a diferença. 🚀
 
